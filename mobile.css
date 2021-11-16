@@ -1,0 +1,40 @@
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.heading{
+    font-size: 1.8rem;
+}
+.about{
+    flex-direction: column;
+}
+.about h2{
+    text-align: center;
+}
+#message{
+    width: 40%;
+    height: 200px;
+}
+.box{
+    height: 100px;
+    width: 300px;
+    background-color:rgb(59, 56, 56) ;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.box h2{
+    color:yellowgreen;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+}
+.box p{
+    color: white;
+    font-size: 0.8rem;
+}
+.about img{
+    width: 200px;
+    height: 150px;
+    padding: 0px 15px;
+}
